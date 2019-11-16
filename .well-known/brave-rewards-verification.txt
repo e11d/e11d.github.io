@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: fm311g.github.io
+Token: bc73b2be3962b54a09f1eb2a65cbbac3302dfe242ef801a53cd58f38ce93b2fc
